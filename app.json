@@ -1,0 +1,8 @@
+{
+  "name": "fu-book-seller",
+  "buildpacks": [
+    {
+      "url": "heroku/gradle"
+    }
+  ]
+}
